@@ -1,0 +1,3 @@
+match,file,type,ner_score
+test@example.com,/tmp/pytest-of-ubuntu/pytest-4/test_scan_txt_regex_creates_cs0/data/sample.txt,Regex: Email address,
+192.168.0.1,/tmp/pytest-of-ubuntu/pytest-4/test_scan_txt_regex_creates_cs0/data/sample.txt,Regex: IPv4 address,
